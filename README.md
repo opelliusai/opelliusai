@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @opelliusai
 - 👀 I’m interested in Deep Learning and LLMs
-- 🌱 I've passed a Data Science Bootcamp and now I’m currently learning MLOps
+- 🌱 I've passed a Data Science and MLOps Bootcamp
 - 💞️ I’m looking to collaborate on challenging Data Science projects
 
 <!---
